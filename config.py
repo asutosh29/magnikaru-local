@@ -16,3 +16,6 @@ TRAIN_PATH = os.path.join("data", "preprocessed","train.csv")
 TEST_PATH = os.path.join("data", "preprocessed","test.csv")
 
 TEST_K = 10
+
+DEPTH=7
+INFO_DEPTH=13
